@@ -1,5 +1,4 @@
 int Ain = A0;
-int value = 0;
 
 void setup() {
   // put your setup code here, to run once:
